@@ -4,7 +4,7 @@
 
 ## Background
 
-[Ragel][1] is lexer generator. It it like Lex/Flex but without the need to use
+[Ragel][1] is lexer generator. It is like Lex/Flex but without the need to use
 a certain buffering scheme, more flexible, not restricted to a scanner
 approach and has rich support for regular language operators and user defined
 actions. The ragel binary takes a regular machine description as input and
