@@ -4,11 +4,12 @@
 
 ## Background
 
-[Ragel][1] is lexer generator. It is like Lex/Flex but without the need to use
-a certain buffering scheme, more flexible, not restricted to a scanner
-approach and has rich support for regular language operators and user defined
-actions. The ragel binary takes a regular machine description as input and
-generates efficient C/C++/... code.
+[Ragel][1] is a parser generator for regular languages with some advanced
+features. In some aspects it is similar to Lex/Flex but without the need to use
+a certain buffering scheme, more flexible, not restricted to a scanner approach
+and has rich support for regular language operators and user defined actions.
+The ragel binary takes a regular state machine description as input and generates
+efficient C/C++/... code.
 
 ## Examples
 

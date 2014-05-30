@@ -64,9 +64,9 @@ int main( int argc, char **argv )
   %% write init;
   %% write exec;
   if (cs == %%{write error;}%%)
-    cout << "Lexer ERROR\n";
+    cout << "Parser ERROR\n";
   if (cs < %%{write first_final;}%%)
-    cout << "Lexer not in final state\n";
+    cout << "Parser not in final state\n";
   if (top)
     cout << "Stack is not empty: " << top << '\n';
   cout << "exit (in state=" << cs << ")\n";
