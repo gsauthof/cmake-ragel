@@ -72,5 +72,11 @@ You can also use an alternative build file generator:
 Usage notes for the examples are included in the source files.
 
 
+## See also
+
+There is also a [ticket on adding a FindRAGEL module][1] in the cmake bug tracker.
+
 [1]: http://www.complang.org/ragel/
 [2]: http://www.cmake.org/
+[3]: http://www.cmake.org/Bug/view.php?id=14954
+
