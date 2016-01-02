@@ -74,7 +74,7 @@ Usage notes for the examples are included in the source files.
 
 ## See also
 
-There is also a [ticket on adding a FindRAGEL module][1] in the cmake bug tracker.
+There is also a [ticket on adding a FindRAGEL module][3] in the cmake bug tracker.
 
 [1]: http://www.complang.org/ragel/
 [2]: http://www.cmake.org/
