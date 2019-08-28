@@ -13,7 +13,7 @@ efficient C/C++/... code.
 
 ## Examples
 
-The example `CMakeLists.cmake` project shows how to use the `FindRAGEL.cmake`
+The example `CMakeLists.txt` project shows how to use the `FindRAGEL.cmake`
 module (additional comments are in the module itself). It builds 2 Ragel
 example programs (located in the `example` sub-directory).
 
